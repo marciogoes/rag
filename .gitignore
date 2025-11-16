@@ -13,8 +13,10 @@ ENV/
 .env
 .env.local
 .env.production
+.env.*.local
+
+# Credenciais (NÃO commitar)
 CREDENCIAIS.md
-config_usuarios.py
 
 # Dados do projeto
 chroma_db/
