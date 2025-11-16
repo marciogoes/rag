@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nome": "Exemplo de Projeto",
+    "descricao": "Este é um projeto de exemplo para demonstração",
+    "criado_por": "admin",
+    "data_criacao": "2024-11-16T10:00:00",
+    "ativo": true,
+    "total_documentos": 0
+  }
+]

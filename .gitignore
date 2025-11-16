@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.venv
+
+# Arquivos sensíveis
+.env
+.env.local
+.env.production
+CREDENCIAIS.md
+config_usuarios.py
+
+# Dados do projeto
+chroma_db/
+uploads/
+exports/
+data/projetos.json
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.tmp
+*.bak
+*.cache
